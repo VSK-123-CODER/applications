@@ -1,2 +1,4 @@
-# applications from developer b
+
+# applications from developer 
+# applications for developer a
 
